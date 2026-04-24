@@ -1,0 +1,14 @@
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Blue sphere -->
+  <circle cx="60" cy="60" r="40" fill="#00b2e3"></circle>
+
+  <!-- Divider bar -->
+  <rect x="120" y="30" width="2" height="60" fill="#00b2e3"></rect>
+
+  <!-- Text -->
+  <text x="140" y="75" font-family="Roboto, Arial, sans-serif" font-weight="700" font-size="28" fill="#00b2e3">
+    Tariff Geography
+  </text>
+
+</svg>
