@@ -24,11 +24,11 @@
 	//let choropleth = "/pmtiles/choropleth.pmtiles.gz";
 	//let centroids = "/pmtiles/centroids.pmtiles.gz";
 
-	let choropleth_ageb = "/pmtiles/choropleth_ageb.pmtiles.gz";
-	let centroids_ageb = "/pmtiles/centroids_ageb.pmtiles.gz";
+	let choropleth_ageb = "/pmtiles/choropleth_ageb.pmtiles";
+	let centroids_ageb = "/pmtiles/centroids_ageb.pmtiles";
 
-	let choropleth_loc = "/pmtiles/choropleth_loc.pmtiles.gz";
-	let centroids_loc = "/pmtiles/centroids_loc.pmtiles.gz";
+	let choropleth_loc = "/pmtiles/choropleth_loc.pmtiles";
+	let centroids_loc = "/pmtiles/centroids_loc.pmtiles";
 
 	//let censusDivisions = "/pmtiles/census-divisions.pmtiles.gz";
 
