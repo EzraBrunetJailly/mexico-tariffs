@@ -1,1 +1,1 @@
-# mexico.tariffs.io
+# mexico-tariffs
