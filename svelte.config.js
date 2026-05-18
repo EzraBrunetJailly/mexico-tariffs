@@ -18,7 +18,7 @@ const config = {
         }),
         paths: {
             // This is useful for GitHub Pages
-            base: '', 
+            base: dev ? '' : '/mexico-tariffs'
         }
     }
 };
