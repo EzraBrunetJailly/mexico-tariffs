@@ -1,0 +1,1 @@
+import{ht as e}from"../chunks/DxIgArEs.js";import{t}from"../chunks/anFU_5yz.js";var n=e({});export{t as component,n as universal};

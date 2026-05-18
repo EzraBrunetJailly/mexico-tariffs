@@ -1,1 +1,0 @@
-import{M as e,N as t,Q as n,w as r}from"./DxIgArEs.js";import"./CFKVnMbq.js";function i(i,a){var o=t();r(n(o),()=>a.children),e(i,o)}export{i as t};

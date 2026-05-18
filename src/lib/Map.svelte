@@ -1,4 +1,6 @@
 <script>
+
+	import {base} from '$app/paths';
 		// (as of September 1, 2025)
 	import logoBlueColour from '../assets/logo.svg';
 	import "../assets/global-styles.css";
@@ -24,11 +26,11 @@
 	//let choropleth = "./pmtiles/choropleth.pmtiles.gz";
 	//let centroids = "./pmtiles/centroids.pmtiles.gz";
 
-	let choropleth_ageb = "./pmtiles/choropleth_ageb.pmtiles";
-	let centroids_ageb = "./pmtiles/centroids_ageb.pmtiles";
+	let choropleth_ageb = `${base}/pmtiles/choropleth_ageb.pmtiles`;
+	let centroids_ageb = `${base}/pmtiles/centroids_ageb.pmtiles`;
 
-	let choropleth_loc = "./pmtiles/choropleth_loc.pmtiles";
-	let centroids_loc = "./pmtiles/centroids_loc.pmtiles";
+	let choropleth_loc = `${base}/pmtiles/choropleth_loc.pmtiles`;
+	let centroids_loc = `${base}/pmtiles/centroids_loc.pmtiles`;
 
 	//let censusDivisions = "/pmtiles/census-divisions.pmtiles.gz";
 
