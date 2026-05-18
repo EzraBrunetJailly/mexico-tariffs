@@ -19,16 +19,16 @@
 	let addressResults="";
 
 	// Change these to have the .gz extension after .pmtiles for deployment
-	//let choropleth_oct = "/pmtiles/choropleth_oct.pmtiles.gz";
-	//let centroids_oct = "/pmtiles/centroids_oct.pmtiles.gz";
-	//let choropleth = "/pmtiles/choropleth.pmtiles.gz";
-	//let centroids = "/pmtiles/centroids.pmtiles.gz";
+	//let choropleth_oct = "./pmtiles/choropleth_oct.pmtiles.gz";
+	//let centroids_oct = "./pmtiles/centroids_oct.pmtiles.gz";
+	//let choropleth = "./pmtiles/choropleth.pmtiles.gz";
+	//let centroids = "./pmtiles/centroids.pmtiles.gz";
 
-	let choropleth_ageb = "/pmtiles/choropleth_ageb.pmtiles";
-	let centroids_ageb = "/pmtiles/centroids_ageb.pmtiles";
+	let choropleth_ageb = "./pmtiles/choropleth_ageb.pmtiles";
+	let centroids_ageb = "./pmtiles/centroids_ageb.pmtiles";
 
-	let choropleth_loc = "/pmtiles/choropleth_loc.pmtiles";
-	let centroids_loc = "/pmtiles/centroids_loc.pmtiles";
+	let choropleth_loc = "./pmtiles/choropleth_loc.pmtiles";
+	let centroids_loc = "./pmtiles/centroids_loc.pmtiles";
 
 	//let censusDivisions = "/pmtiles/census-divisions.pmtiles.gz";
 
